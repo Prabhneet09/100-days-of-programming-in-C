@@ -6,7 +6,7 @@ int main()
     int d;
     long long ans = 0;
     long long p = 1;
-
+    printf("enter your binary number");
     scanf("%lld", &n);
 
     while(n > 0)
