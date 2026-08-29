@@ -4,7 +4,7 @@ int main()
 {
     int n, d;
     int p = 1;
-
+    printf("enter your number");
     scanf("%d", &n);
 
     while(n > 0)
