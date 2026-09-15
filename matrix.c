@@ -4,9 +4,9 @@ int main()
 {
     int r, c;
     scanf("%d %d", &r, &c);
-
+    printf("enter size of matrix");
     int a[r][c];
-
+    printf("enter elements:");
     for(int i = 0; i < r; i++)
     {
         for(int j = 0; j < c; j++)
